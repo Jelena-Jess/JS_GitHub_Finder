@@ -1,2 +1,1 @@
-# JavaScript
-Examples and practice
+# JavaScript- Project 1
